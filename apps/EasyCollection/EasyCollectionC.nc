@@ -1,3 +1,9 @@
+/*
+ * @author: Iftekharul Alam
+ * @Modifications and additions made by: Denis Ulybyshev
+ * @date  Dec.07 2014
+*/
+
 #include <Timer.h>
 
 module EasyCollectionC {

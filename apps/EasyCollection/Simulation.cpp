@@ -1,3 +1,9 @@
+/*
+ * @author: Iftekharul Alam
+ * @Modifications and additions made by: Denis Ulybyshev
+ * @date  Dec.07 2014
+*/
+
  #include <tossim.h>
  #include <stdlib.h>
 int main() {
